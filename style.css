@@ -1,0 +1,41 @@
+body {
+  background-color: #011627;
+  color: #ffffff;
+  font-family: 'Fira Code', monospace;
+  padding: 2rem;
+  font-size: 1.2rem;
+}
+
+.code .orange {
+  color: #ffcb6b;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+
+.code .red {
+  color: #ff6188;
+}
+
+.code .blue {
+  color: #78dce8;
+}
+
+.code .italic {
+  font-style: italic;
+}
+
+.icons {
+  margin: 1rem 0;
+  font-size: 2rem;
+}
+
+.icons a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: white;
+  transition: transform 0.2s;
+}
+
+.icons a:hover {
+  transform: scale(1.2);
+}
